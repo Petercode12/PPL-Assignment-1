@@ -1,0 +1,9 @@
+
+            Class a{
+                b(){
+                    c = "Hello world";
+                    d = d +. e;
+                    Var e: xyz;
+                }
+            }
+            

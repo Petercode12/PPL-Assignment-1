@@ -1,0 +1,10 @@
+
+           Class a{
+           }
+           Class b{
+           }
+           Class C : D{
+                Class E{
+                }
+           }
+        

@@ -1,0 +1,10 @@
+
+            Class Phuoc{
+                foo(){
+                    Var x, y: XY;
+                    x = New XY();
+                    y = New XY();
+                    z = x + y;
+                }
+            }
+        

@@ -1,0 +1,17 @@
+
+            Class King{
+                func(){
+                    If (x > y){
+                        Return 51 + 12332 - 32e3*a + b;    
+                    }
+                    Elseif(x < y){
+                        Continue;
+                    }
+                    Else{
+                        Var b: Float;
+                        a = 5 * 3;
+                        b = New abc();
+                    }
+                }
+            }
+        

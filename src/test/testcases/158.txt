@@ -1,0 +1,8 @@
+
+            Class King{
+                func(){
+                    Foreach (y In 2-10 .. 1+1 By b.func()){
+                    }
+                }
+            }
+        

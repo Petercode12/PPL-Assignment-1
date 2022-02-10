@@ -1,0 +1,10 @@
+
+            Class class{
+                main(){
+                    a = "xyz";
+                    b = b ==. a;
+                }
+            }
+            check(){
+            }
+            

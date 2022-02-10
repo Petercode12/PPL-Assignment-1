@@ -1,0 +1,9 @@
+
+        Class Testing{
+            Var abc: Int;
+            $checkCons(){
+                Constructor() {
+                }
+            }
+        }
+        

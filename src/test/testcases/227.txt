@@ -1,0 +1,7 @@
+
+            Class _bku_{
+                $foo(){
+                    bku.$f = b == c  == True;
+                } 
+            }
+            

@@ -1,0 +1,9 @@
+
+            Class Hungking{
+                Compare(){
+                    x = New X();
+                    y = a + b*c[5];
+                    Return x==y; 
+                }
+            }
+        

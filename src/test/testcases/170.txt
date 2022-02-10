@@ -1,0 +1,9 @@
+
+            Class Hung : King{
+                Var array: Array[Array[Int, 0b101001], 0xFA];
+                $foo(a,b: Int; c,d,e: Array[Int, 4]){
+                    a::$b = 10;
+                    Return abcde;
+                }
+            }
+        

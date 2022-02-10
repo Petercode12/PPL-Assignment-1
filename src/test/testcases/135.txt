@@ -1,0 +1,7 @@
+
+            Class HungKing{
+                Check_something(){
+                    Var x: Array[Array[Bool,2],-10];
+                }
+            }
+            

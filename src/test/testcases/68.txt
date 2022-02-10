@@ -1,0 +1,1 @@
+obj_1st.obj_2nd::func(.e+1)

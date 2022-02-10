@@ -1,0 +1,8 @@
+
+            Class King {
+                func(){
+                    Var xuzika: Bool = False;
+                    xuzika = 2 && !5;
+                } 
+            }
+        

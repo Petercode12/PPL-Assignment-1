@@ -1,0 +1,7 @@
+
+            Class _hung_{
+                $foo(){
+                    hung::$friend = a == d  == True;
+                } 
+            }
+        

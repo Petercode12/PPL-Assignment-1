@@ -1,0 +1,7 @@
+
+            Class class{
+                func(){
+                    x.y(z, 09fFwawfwfeafeafrwgthryuuyjtrwafawfwaggwefwa);
+                }
+            }
+        

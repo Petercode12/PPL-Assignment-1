@@ -1,0 +1,5 @@
+
+            Class class {
+                Var x, y: Bool = True,False,True;
+            }
+            

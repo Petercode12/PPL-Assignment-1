@@ -1,0 +1,8 @@
+
+            Class Diamond {
+                Volume(){
+                    volume = 5;
+                    Var $result: Float;
+                } 
+            }
+        

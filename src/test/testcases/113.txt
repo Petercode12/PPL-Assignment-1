@@ -1,0 +1,9 @@
+
+        Class point{
+	    Destructor(){}
+            Constructor(a,b,c,d,e : Int; f,g:String){
+                Self.a=Self.b*Self.d+Self.e/Self.c;
+                Self.f="shape"+.Self.g;
+            }  
+        }
+        

@@ -1,0 +1,7 @@
+
+            Class _hung_{
+                func(){
+                    Var a: Array[Float, 3_4_5.000000e-0];
+                }
+            }
+        

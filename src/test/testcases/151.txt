@@ -1,0 +1,8 @@
+
+            Class _hung_{
+                foo(){
+                    Var a: Array[Int, 3], Array[Int, 3];
+                    a = Array(-1,-2,-1) + Array(2,3,0) == 1;
+                }
+            }
+        

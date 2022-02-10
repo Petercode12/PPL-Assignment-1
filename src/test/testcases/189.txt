@@ -1,0 +1,11 @@
+
+            Class try{
+                Var running: Boolean = True;
+                run(){
+                    Self.running = True;
+                }
+                speedup(){
+                    Self.running = False;
+                }
+            }
+            

@@ -1,0 +1,8 @@
+
+                Class Phuoc {
+                    foo(){
+                        Var a: Bool;
+                        a = 2 > 6 ! 5 >= (-2 + 8);
+                    } 
+                }
+                

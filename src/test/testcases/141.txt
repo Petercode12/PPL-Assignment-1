@@ -1,0 +1,9 @@
+
+            Class King{
+                func(){
+                    Val a: Array[Int, 1];
+                    Val b: Array[Int, 0XF7];
+                    Val c: Array[Int, 0b0];
+                }
+            }
+        

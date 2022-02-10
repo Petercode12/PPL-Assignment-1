@@ -1,0 +1,8 @@
+
+                Class Phuoc{
+                    foo(){
+                        Var a, b: Float;
+                        object.a.attr = Self.c*8 + b;
+                    }
+                }
+            

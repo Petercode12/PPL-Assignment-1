@@ -1,0 +1,7 @@
+
+            Class Point {
+                _Result(){
+                    a::$b = c.d().e.f();
+                } 
+            }
+        

@@ -1,0 +1,7 @@
+
+            Class Gun{
+                XYZ(a: Array[Int, 3] = 8; b: Float){
+                    King: String = "Abc";
+                }
+            }
+        

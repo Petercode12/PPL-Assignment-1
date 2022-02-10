@@ -1,0 +1,10 @@
+
+            Class King{
+                main(){
+                    Var var: String = "str1";
+                }
+                func(){
+                        Return True;
+                }
+            }
+        

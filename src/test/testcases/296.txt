@@ -1,0 +1,10 @@
+
+        Class think{
+            Var a: Int;
+            func(){
+                Return Self.Circulate.n.b(a+9812).y(12+8).best.pi;
+                Break;
+                Return y;
+            }   
+        }
+        

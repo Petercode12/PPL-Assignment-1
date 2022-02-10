@@ -1,0 +1,7 @@
+
+            Class Shape {
+                Rectangle(){
+                    Area();
+                } 
+            }
+            

@@ -1,0 +1,13 @@
+
+            Class Hung : King{
+                Var $var: Array[Array[Int, 0b1], 1];
+                func(a,b: Int; c,d,e: Array[Int, 1]){
+                    If (a > b){
+                        Return 51 + 21 - 31*a + b;    
+                    }
+                    Elseif(b < d::$a + 51){
+                        b.a[1] = 15*41 - e + 18 / 53 ! 14;
+                    }
+                }
+            }
+        

@@ -1,0 +1,12 @@
+
+                Class Phuoc : Hello{
+                    Var $12abc: Array[Array[Int, 0b1], 0x17];
+                    $foo(a,b: Int; c,d: Array[Int, 5]){
+                        a = Self.b + c;
+                        b = a[0]*a[1];
+                        k = b[func()];
+                        Return Self;
+                    }
+                }
+
+            

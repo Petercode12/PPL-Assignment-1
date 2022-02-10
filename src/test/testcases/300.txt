@@ -1,0 +1,12 @@
+
+        Class moments{
+            func(){
+                x = hemo/human + Self.func();
+                Self.func(parafirst, parasecond);
+                Val test_bool: Boolean = (True == False) + 0;
+                a = "Alladin";
+                n = (! test_not);
+                Return Self.para(42*3 + 5);
+            }   
+        }
+        

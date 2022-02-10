@@ -1,0 +1,7 @@
+
+            Class king_{
+            Destructor(a,c: Int; b: Float; d: String){
+                Return;
+            }
+        }
+            

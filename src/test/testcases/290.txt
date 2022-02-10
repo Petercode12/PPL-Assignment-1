@@ -1,0 +1,8 @@
+
+        Class Pow{
+            multi(x: Array[Int, 3] = 8; y: Float){
+                manage: String = "Abc";
+                os.print("Hello");
+            }
+        }
+        

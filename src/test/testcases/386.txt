@@ -1,0 +1,10 @@
+
+        Class Program{
+            main(){
+                a = "Hello world";
+                b = b +. a;
+            }
+        }
+        function_check(){
+        }
+        

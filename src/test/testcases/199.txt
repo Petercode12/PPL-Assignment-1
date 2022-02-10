@@ -1,0 +1,7 @@
+
+        Class _0{
+            huyquanhoasieucapvjppro(){
+                Var loimuonnoi: String = "dm may nha trang";
+            }   
+        }
+        

@@ -1,0 +1,9 @@
+
+            Class class{
+                Check_something(){
+                    Var x: Array[Array[Float,5],2];
+                    x = Array(Array(2.5e+1,4.6,3.2*5.1+2.2 - 1.e1), Array(462e,513.0000+112.4,0.1/5310.0,2.*20.21,31.223-51.01));
+                    Return x; 
+                }
+            }
+        

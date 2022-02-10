@@ -1,0 +1,8 @@
+
+            Class point {
+                Diamond(){
+                    Cost();
+                    a::$b.c.foo();
+                } 
+            }
+            

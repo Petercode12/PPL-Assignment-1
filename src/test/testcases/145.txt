@@ -1,0 +1,10 @@
+
+            Class King{
+                func(){
+                    Var x, y: fun;
+                    x = New fun();
+                    y = New fun();
+                    result = x + y;
+                }
+            }
+        

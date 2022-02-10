@@ -1,0 +1,15 @@
+
+                Class Phuoc{
+                    foo(){
+                        Var a: Array[Int, 01];
+                        Var b: Array[Int, 0x1];
+                        Var c: Array[Int, 0X1];
+                        Var d: Array[Int, 0b1];
+                        Var e: Array[Int, 0B1];
+                        Val f: Array[Int, 1];
+                        Val g: Array[Int, 07];
+                        Val h: Array[Int, 0b0];
+                    }
+                }
+
+            

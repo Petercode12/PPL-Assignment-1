@@ -1,0 +1,5 @@
+
+            Class Point {
+                Var $_x1: Array[Float,-0];
+            }
+            

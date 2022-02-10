@@ -1,0 +1,8 @@
+
+            Class _hung_{
+                Var $arr : Array[Int,3];
+                foo() {
+                    Var $a: Int;
+                }    
+            }
+            

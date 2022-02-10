@@ -1,0 +1,8 @@
+
+            Class _hungking_{
+                func(){
+                    a = 3 + 4 - (-2 / -3) ; 
+                    y = a + b*c[5];
+                }
+            }
+        

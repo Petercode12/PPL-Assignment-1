@@ -1,0 +1,17 @@
+
+                Class Phuoc{
+                    foo(){
+                       	If (a > b){
+                            Return 5 + 2 - 3*a + b;    
+                        }
+                        Elseif(b < a){
+                            Continue;
+                        }
+                        Else{
+                            Var a: Float;
+                            a = 5 * 3;
+                            b = New Object();
+                        }
+                    }
+                }
+            

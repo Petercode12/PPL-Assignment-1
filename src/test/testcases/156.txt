@@ -1,0 +1,7 @@
+
+            Class _hung_ {
+                foo() {
+                    Return $a;
+                }
+            }
+        

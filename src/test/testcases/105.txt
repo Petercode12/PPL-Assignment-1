@@ -1,0 +1,8 @@
+
+        Class $hung__{
+            $_{
+		x+y = a.b;
+                Return nothing();
+            }
+        }
+        

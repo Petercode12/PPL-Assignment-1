@@ -1,0 +1,7 @@
+
+            Class _bku_{
+            Var $arr : Array[Int,3], Array[Int,2];
+            }       
+        }
+
+                

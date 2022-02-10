@@ -1,0 +1,7 @@
+
+            Class _king_{
+                $queen(){
+                    abc = b < c > True;
+                } 
+            }
+            

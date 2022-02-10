@@ -1,0 +1,18 @@
+
+                Class Phuoc{
+                    foo(){
+                       	If (a > b){
+                            Return 5 + 2 - 3*a + b;    
+                        }
+                        Elseif(b < a + 5){
+                            Foreach (scalar In (1+2) .. (2*3) By 5*4){
+                                Op.print("Hello world");
+                                Op::$go = 5*3 - 2;
+                            }
+                            b.a[0] = 5;
+                        }
+                        a.$c = 5;
+                    }
+                }
+
+            

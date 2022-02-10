@@ -1,0 +1,9 @@
+
+            Class _hung_ {
+                foo(){
+                    a = True && False;
+                    c=d::$f.d.d;
+                    e=f[1+1/(2*3)+4][1.1+1];
+                } 
+            }
+        

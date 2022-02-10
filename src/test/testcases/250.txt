@@ -1,0 +1,7 @@
+
+            Class _bku_ {
+            foo(){
+                Var a : Array[Float, b::$f0];
+                } 
+            }
+        

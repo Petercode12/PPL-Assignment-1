@@ -1,0 +1,8 @@
+
+            Class HungKing{
+                Var array: Array[Array[Int, 0b101001], 0xFA];
+                func($abc: Int){
+                    Return array;
+                }
+            }
+        

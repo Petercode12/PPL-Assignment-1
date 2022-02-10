@@ -1,0 +1,8 @@
+
+            Class _hungking_{
+                func(){
+                        func(){
+                    };
+                }
+            }
+        

@@ -1,0 +1,7 @@
+
+            Class _bku_ {
+                foo(){
+                    a = (b==c) == True;
+                } 
+            }
+            

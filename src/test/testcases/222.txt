@@ -1,0 +1,11 @@
+
+            Class _class_{
+            Destructor(){
+                Return;
+            }
+            foo(){
+                country = New X().Y();
+            } 
+        }
+
+            

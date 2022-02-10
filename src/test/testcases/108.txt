@@ -1,0 +1,10 @@
+
+                Class point{
+                    Var x, y: Float;
+                }
+
+                Class Distance {
+                    Var result: String = "sqrt(x1 square - x2 square)";
+                    Val $x1,$x2: Array[point,2];
+                }
+                

@@ -1,0 +1,8 @@
+
+            Class King {
+                func(){
+                    Var a: Int;
+                    a = 3 <= 4 == 5 >= -5;
+                } 
+            }
+        

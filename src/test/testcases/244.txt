@@ -1,0 +1,6 @@
+
+                Class Phuoc{
+                    Var a: Int;
+                    Class Shape2{}
+                }
+            

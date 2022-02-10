@@ -1,0 +1,9 @@
+
+            Class Program{
+                main(){
+                    a = "Hello world";
+                    b = b +. a;
+                    Var c: Program;
+                }
+            }
+            

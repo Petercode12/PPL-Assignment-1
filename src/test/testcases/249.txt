@@ -1,0 +1,7 @@
+
+            Class _bku_{
+                func(){
+                    Var a: Array[Int, 1_23.456e+7];
+                }
+            }
+        

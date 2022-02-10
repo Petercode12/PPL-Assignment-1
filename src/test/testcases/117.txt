@@ -1,0 +1,8 @@
+
+            Class Hungking {
+                main(){
+                    x::$y.z.f.t.y.func();
+                    Var mark: Int = 10;
+                } 
+            }
+            

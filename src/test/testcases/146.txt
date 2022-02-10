@@ -1,0 +1,7 @@
+
+            Class hungking{
+                func(){
+                    Var a: Array[Float, -1];
+                }
+            }
+        

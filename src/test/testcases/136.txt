@@ -1,0 +1,5 @@
+
+            Class main{
+                Val $a : Int = 0;
+                main(){}
+            

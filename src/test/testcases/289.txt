@@ -1,0 +1,15 @@
+
+            Class Program{
+                main(){
+                    a = "Hello world";
+                    b = b +. a;
+                    Var c,d,e: Int = 1, 5, 6;
+                }
+            }
+
+            Class People{
+                Engineer(c,d: Float; b::$a: Int){
+                    os.print("Hello");
+                }
+            }
+            

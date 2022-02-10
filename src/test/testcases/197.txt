@@ -1,0 +1,7 @@
+
+        Class _0{
+            foo(){
+                Return Self.Parameter.x.y(x+3).z(0+1).ok;
+            }   
+        }
+        

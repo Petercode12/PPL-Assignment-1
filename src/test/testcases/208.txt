@@ -1,0 +1,10 @@
+
+                Class Position{
+                    Var x, y: Float;
+                }
+
+                Class Shape {
+                    Var note: String = "Rectangle \n Square";
+                    Val $pos,$sigma: Array[Position,2];
+                }
+                

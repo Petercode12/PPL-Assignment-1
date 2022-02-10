@@ -1,0 +1,8 @@
+
+                Class Triangle:Shape{
+            foo(){ 
+                b = a[foo()];
+            }
+}   
+
+            

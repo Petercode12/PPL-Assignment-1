@@ -1,0 +1,7 @@
+
+        Class Culture{
+            foo(){
+                country = New a().b();
+            } 
+        }
+        

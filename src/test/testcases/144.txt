@@ -1,0 +1,8 @@
+
+            Class Hungking{
+                Var $a: Int;
+                Class queen{
+                    Var $b: Int;
+                }
+            }
+        

@@ -1,0 +1,9 @@
+
+                Class Phuoc{
+                    Var $12abc: Array[Array[Int, 0b1], 0x17];
+                    foo($a: Int){
+                       	Return abc;
+                    
+                }
+
+            

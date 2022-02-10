@@ -1,0 +1,8 @@
+
+        Class abc{
+             $homecse(){
+                Var helloword: String = "ok students";
+                Return $helloworld;
+             }   
+        }
+        

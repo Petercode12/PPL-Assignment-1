@@ -1,0 +1,5 @@
+
+            Class Shape {
+                Var x, y: Float = 2.5,7.6,12.8;
+            }
+            

@@ -1,0 +1,8 @@
+
+            Class class{
+                Var $var: Array[Array[Int, 0b1], 1];
+                $func(a,b: Int; c,d,e: Array[Int, 3]){
+                    Self = 0;
+                }
+            }
+        

@@ -1,0 +1,9 @@
+
+            Class Phuoc{
+                Check_expr(){
+                    Var x: Array[Array[Float,5],2];
+                    x = Array(Array(2.5e+1,4.6,3.2*5.1+2.2,4.3,8.2*3 - 1.e1), Array(46e2,53.00+1,4.5/5,2.*3.2,3.2-5.0));
+                    Return x; 
+                }
+            }
+            

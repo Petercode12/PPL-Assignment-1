@@ -1,0 +1,7 @@
+
+        Class Shape {
+            Area(){
+                a::$b = c.d.e;
+            } 
+        }
+        

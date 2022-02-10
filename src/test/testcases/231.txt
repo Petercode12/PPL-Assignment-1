@@ -1,0 +1,9 @@
+
+                Class Phuoc{
+                    Check_expr(){
+                        x = New X();
+                        x = a + b*c[5];
+                        Return x; 
+                    }
+                }
+                

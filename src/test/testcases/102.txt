@@ -1,0 +1,7 @@
+
+        Class HCMUT_CS: Shape {
+            getGPA() {
+            Return self.finalmark / self.credit;
+            }
+        }
+        

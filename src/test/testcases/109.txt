@@ -1,0 +1,5 @@
+
+                Class point {
+                    Var vodka: Array[Array[Array[Int, 1],1],1] = Array(Array(Array(20), Array(34), Array(-0)));
+                }
+            

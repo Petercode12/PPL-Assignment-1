@@ -1,0 +1,19 @@
+
+        Class point {
+            Val $numOfPoint: Int = 1+1;
+            Var length, width: Float;
+            $getNumOfPoint() {
+                Return $numOfPoint;
+            }
+        }
+        Class Diamond: point {
+            getArea() {
+                Return self.length * self.width;
+            }
+        }
+        Class Program {
+            main() {
+                Out.printInt(Shape::$numOfPoint);
+            }
+        }
+        

@@ -1,0 +1,6 @@
+
+            Class Shape {
+                Var arr: Array[Int,1];
+                Val arr2: Array[Int,-1];
+            }
+            

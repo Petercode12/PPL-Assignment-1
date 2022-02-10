@@ -1,0 +1,10 @@
+
+            Class _bku_{
+            Var a: Float;
+                $foo(){
+                    a = ("here come the " +. " goat") +. "s";
+                    c = ("a"==."a")==True;
+                } 
+            }
+
+            

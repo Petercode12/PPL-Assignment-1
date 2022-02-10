@@ -1,0 +1,11 @@
+
+            Class Phuoc{
+                Val $b: Int = 5*3-1;
+                Check_expr(){
+                    Var a: Bool = !1 && 1 || 0 && (1+1); 
+                    Val c: X = New X();
+                    Var d: Int;
+                    d = c::$b.e + 23*4/5%6;
+                }
+            }
+            

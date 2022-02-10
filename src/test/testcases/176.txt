@@ -1,0 +1,8 @@
+
+            Class class : student{
+                Var $var: Array[Array[Int, 0b1], 1];
+                func(a,b: Int; c,d,e: Array[Int, 5]){
+                    mark = a.c[5].b;
+                }
+            }
+        

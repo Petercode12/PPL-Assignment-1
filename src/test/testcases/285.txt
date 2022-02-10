@@ -1,0 +1,19 @@
+
+                   Class People{
+                        Var a, b, c: Int;
+                   }
+                   Class Engineer{
+                       HCMUT(){
+                            a = b + c * 5;
+                            Faculty(){
+                                a = b*3;
+                            }
+                       }
+                       Constructor(){
+
+                       }
+                       Destructor(){
+
+                       }
+                   }
+               

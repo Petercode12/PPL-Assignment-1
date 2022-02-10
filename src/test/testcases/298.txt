@@ -1,0 +1,8 @@
+
+        Class abc{
+            homecse(){
+                Var helloworld: String = "ok students";
+                helloworld = "New string";
+            }   
+        }
+        

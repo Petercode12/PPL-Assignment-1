@@ -1,0 +1,6 @@
+
+            Class Point {
+                Var $x1: Array[Float,10];
+                Val $x2: Array[Float,-10];
+            }
+            

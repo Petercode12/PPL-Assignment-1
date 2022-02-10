@@ -1,0 +1,6 @@
+
+                Class Shape {
+                   Var Area,$pi : Int = 12*3, 3.14;
+                   Val $pos,$sigma: Array[Float,4];
+                }
+                

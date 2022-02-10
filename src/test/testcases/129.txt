@@ -1,0 +1,9 @@
+
+            Class king_{
+            Var a: Float;
+                $foo(){
+                    a = ("I have 1 billion " +. " in dream") +. " s";
+                    c = ("xyz"==."abcdefgh") == False;
+                } 
+            }
+        

@@ -1,0 +1,7 @@
+
+        Class _hung_ {
+            func(){
+                Var $var: String = "a";
+            } 
+        }
+        

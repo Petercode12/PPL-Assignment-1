@@ -1,0 +1,7 @@
+
+        Class StudentA: Shape {
+            getFinalScore() {
+            Return self.midterm + self.final;
+            }
+        }
+        

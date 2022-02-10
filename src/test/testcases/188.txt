@@ -1,0 +1,9 @@
+
+            Class class{
+                void(){
+                    a = "anh la ai";
+                    b = b +. a;
+                    Var c: Int = 3,4,5;
+                }
+            }
+        

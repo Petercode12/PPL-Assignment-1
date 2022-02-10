@@ -1,0 +1,16 @@
+
+        Var x, y, z: Float;
+        x = 5 +4 -2;
+        Class Alex{
+            playgames(){
+                Self.func(parafirst, parasecond, parathird);
+                Var b: Boolean = 8 >= 2;
+                Val val1: Boolean = True == False;
+                
+                a = football + Self.soccer();
+                Return True;
+                b = Array(1,2,3);
+                Break;
+            }   
+        }
+        

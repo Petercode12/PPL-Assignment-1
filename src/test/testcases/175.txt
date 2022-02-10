@@ -1,0 +1,10 @@
+
+            Class class{
+                Var $var: Array[Array[Int, 0b1], 1];
+                $foo(a,b: Int; c,d: Array[Int, 5]){
+                    b = c[0]*d[1];
+                    c = d[func()];
+                    Return Self;
+                }
+            }
+        

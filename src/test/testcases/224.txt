@@ -1,0 +1,11 @@
+
+            Class _class_ {
+           foo(){
+                a = !!!!!!!!True || False;
+                b = ---4 + 3;
+           }  
+           Constructor(a,c: Bool; b : Float){
+                Return a+b-c;
+           }
+        }
+            

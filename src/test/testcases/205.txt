@@ -1,0 +1,7 @@
+
+        Class Shape {
+            $_getNum{
+                Return 1+2;
+            }
+        }
+        

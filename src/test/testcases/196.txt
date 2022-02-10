@@ -1,0 +1,12 @@
+
+        Class _0{
+            foo(){
+                a = cc/dd + Self.foo();
+                Self.foo2(param1, param2);
+                Var b: Boolean = 1 >= 3;
+                Val val1: Boolean = (True == False) + 0;
+                b = ! val1;
+                Return Self.Parameter(0+32);
+            }   
+        }
+        

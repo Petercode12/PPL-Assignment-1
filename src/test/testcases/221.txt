@@ -1,0 +1,10 @@
+
+            Class _class_{
+                Constructor(){
+
+                };
+                foo(){
+                    country = New X().Y();
+                } 
+            }
+            

@@ -1,0 +1,8 @@
+
+            Class Hungking{
+                func(){
+                    Var a, b, c: fun;
+                    o.xyz.klp = Self.y()*8 + b;
+                }
+            }
+        

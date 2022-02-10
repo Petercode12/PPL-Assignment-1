@@ -1,0 +1,9 @@
+
+            Class Pow{
+                Calculate(a: Int; b: Float; c: Bool){
+                    Normal(){
+                        a = b*3 + 8 - 4 % 5;
+                    }
+                }
+            }
+        

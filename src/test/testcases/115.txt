@@ -1,0 +1,7 @@
+
+        Class abc{
+            xyz(){
+                emyeubanem = New a().b().d().e.f();
+            } 
+        }
+        

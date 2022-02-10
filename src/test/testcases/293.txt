@@ -1,0 +1,12 @@
+
+        Class Alex{
+            playgames(){
+                Self.func(param1, param2);
+                Var b: Boolean = 8 >= 2;
+                Val val1: Boolean = True == False;
+                b = ! val1;
+                a = football + Self.soccer();
+                Return True;
+            }   
+        }
+        

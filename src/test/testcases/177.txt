@@ -1,0 +1,12 @@
+
+            Class Hung : King{
+                func(a,b: Int; c,d,e: Array[Int, 5]){
+                    mark = a.c[1].b;
+                }
+                Var $var: Array[Array[Int, 0b1], 1];
+                $func1(a,b: Int; c,d,e: Array[Int, 5]){
+                    k = a::$e.d.b.a.c[5];
+                    Return 0;
+                }
+            }
+        

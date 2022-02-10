@@ -1,0 +1,8 @@
+
+            Class class{
+                Check_something(){
+                    Var x: Array[Array[String,2],1];
+                    x = Array(Array("Hi", "you" +. "there"), Array("i am, a king \\n and i have", "a queen"));
+                }
+            }
+        

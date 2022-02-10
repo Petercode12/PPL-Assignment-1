@@ -1,0 +1,9 @@
+
+                Class Shape{
+                    foo(){
+                        a = 1;
+                        a.func() = 5;
+                    }
+                }
+
+            

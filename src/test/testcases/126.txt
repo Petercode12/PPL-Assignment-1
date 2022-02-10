@@ -1,0 +1,7 @@
+
+            Class _hung_ {
+                func(){
+                    a = ((b==c) == True) && False;
+                } 
+            }
+        

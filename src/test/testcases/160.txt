@@ -1,0 +1,9 @@
+
+            Class class{
+                func(){
+                    Foreach (x In y::$z() .. a.c.a.c.a.c By a::$func){
+                        Var $xyz: Float;
+                    }
+                }
+            }
+        

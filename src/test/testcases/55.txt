@@ -1,0 +1,14 @@
+## Class class: Puppy{
+        Var
+        x, y: Int = 50 % s, 3, 5;
+        Var
+        z: Float = 47 / 48;
+        Val $c: Float = 2.E-5;
+        $func()
+        {
+            Var
+        f: String = "abc\n";
+        a = b;
+        }
+
+        ## 

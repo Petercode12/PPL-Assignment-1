@@ -1,0 +1,8 @@
+
+                Class Shape {
+                    Area(){
+                        k = 5;
+                        Var $r, s: Int;
+                    } 
+                }
+            

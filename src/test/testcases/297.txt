@@ -1,0 +1,7 @@
+
+        Class People{
+            function_check(){
+                Return Self.$Circulate.n.b(a+9812).y(12+8).best.pi;
+            }   
+        }
+        

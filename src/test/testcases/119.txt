@@ -1,0 +1,7 @@
+
+            Class Point {
+                func(){
+                    Var a, b, c: Array[Int, 3] = Array(0,1,2), Array(3,4,5), Array(-1,2,3);
+                } 
+            }
+            

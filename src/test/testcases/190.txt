@@ -1,0 +1,12 @@
+
+            Class IS2{
+                Var a, b, c: Int = 2+3, 1, 4+9*3;
+            }
+            Class Gun{
+                XYZ(a: Int; b: Float){
+                    Damage(){
+                        a = b*3;
+                    }
+                }
+            }
+        

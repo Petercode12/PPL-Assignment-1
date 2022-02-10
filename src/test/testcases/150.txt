@@ -1,0 +1,7 @@
+
+            Class _hung_ {
+                func(){
+                    Var a : Array[String, b1::$f0];
+                } 
+            }
+        

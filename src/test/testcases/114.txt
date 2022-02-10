@@ -1,0 +1,7 @@
+
+        Class result {
+            mark(){
+                a=(8--2)*1;
+            } 
+        }
+        

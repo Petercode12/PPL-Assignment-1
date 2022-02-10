@@ -1,0 +1,23 @@
+
+            Class Hung{
+                func(){
+                    If (x > y){
+                        Return 50 + 21 - 35*a + b;    
+                    }
+                    Elseif(x < y + 2){
+                        Foreach (variable In (10-20+1) .. (2*3*5) By 1*2){
+                            H.print("Heeeeee");
+                            H::$mark = 50*31 - 20;
+                        }
+                    }
+                    Else{
+                        Var a: Int;
+                        a = 52 * 30;
+                        b = New abc();
+                        c = Hung::$getMark().final;
+                        Break;
+                        Continue;
+                    }
+                }
+            }
+        

@@ -1,0 +1,13 @@
+
+            Class HungKingKoThichAi{
+                Constructor(){
+
+                };
+                Destructor(){
+
+                };
+                foo(){
+                    numberofbanthich = New X().Y().Z();
+                } 
+            }
+            

@@ -1,0 +1,13 @@
+
+            Class a{
+            }
+            Class b{
+            }
+            Class C : D{
+                func() {
+                    func1() {
+
+                    }
+                }
+            }
+        

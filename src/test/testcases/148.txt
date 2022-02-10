@@ -1,0 +1,7 @@
+
+            Class _hungking_{
+                func(){
+                    Var xyz: Bool = ak+.( b1 ==. cd) || !d2[1] % e.fe + -g1::$hv >= (5+3) ;
+                }
+            }
+        

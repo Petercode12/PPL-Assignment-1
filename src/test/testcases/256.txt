@@ -1,0 +1,7 @@
+
+            Class Shape{
+                foo(){
+                    Return a::$TAloz*a::$TAloz---------a::$TAloz;
+                }
+            }
+        

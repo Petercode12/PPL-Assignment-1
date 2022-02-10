@@ -1,0 +1,6 @@
+
+        Class House {
+		Val Area, $ok : Int = 156*3151, 3XF3_1_14;
+                Var $Volum, delta: Array[Int,4];
+        }
+        

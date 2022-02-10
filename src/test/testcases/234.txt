@@ -1,0 +1,8 @@
+
+            Class Phuoc{
+                Check_expr(){
+                    Var x: Array[Array[String,2],2];
+                    x = Array(Array("Hello world", "abc" +. "def"), Array("Oke, let's check \n here", "It's okay"));
+                }
+            }
+            

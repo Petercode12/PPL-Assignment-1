@@ -1,0 +1,23 @@
+
+                Class Phuoc{
+                    foo(){
+                       	If (a > b){
+                            Return 5 + 2 - 3*a + b;    
+                        }
+                        Elseif(b < a + 5){
+                            Foreach (scalar In (1+2) .. (2*3) By 5*4){
+                                Op.print("Hello world");
+                                Op::$go = 5*3 - 2;
+                            }
+                        }
+                        Else{
+                            Var a: Float;
+                            a = 5 * 3;
+                            b = New Object();
+                            c = Shape::$getArea().square_meter;
+                            Break;
+                        }
+                    }
+                }
+
+            

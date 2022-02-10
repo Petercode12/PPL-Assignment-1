@@ -1,0 +1,10 @@
+
+            Class class:something{
+                Val arr : Array[king, 4];
+                func(){
+                    Var a : king = New King();
+                    {}
+                    {}
+                }
+            }
+        

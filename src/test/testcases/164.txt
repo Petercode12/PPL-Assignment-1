@@ -1,0 +1,8 @@
+
+            Class Hung{
+                Var $12_abc: Array[Array[Int, 013546], 0xF1219A];
+                func(){
+                    Return HungKing::$12_abc;
+                }
+            }
+        
